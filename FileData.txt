@@ -1,0 +1,10 @@
+<html>
+<head> 
+	<title>Simple Web Page</title>
+</head>
+<body>
+  <h1>Congratulations!!!</h1>
+  <h3>This page was returned by your server</h3>
+  <p>This is the first page hosted by your web server.\n</p>
+</body>
+</html>
